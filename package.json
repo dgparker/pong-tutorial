@@ -1,0 +1,8 @@
+{
+  "name": "pong-tutorial",
+  "version": "1.0.0",
+  "description": "make pong with js (es6) using a modern approach",
+  "main": "index.js",
+  "author": "Dylan Parker",
+  "license": "MIT"
+}
